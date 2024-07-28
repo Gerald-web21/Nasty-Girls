@@ -425,11 +425,33 @@ footer{
 
 /* Pagina de Damas */
 
-
+.main-damas h2{
+    text-align: center;
+    margin: 50px 0px;
+    font-size: 28px;
+    text-transform: capitalize;
+    font-weight: 700;
+    text-shadow:0px 0.5px 2px #000000;
+}
 
 /* Pagina de Caballeros */
 
-
+.main-caballeros h2{
+    text-align: center;
+    margin: 50px 0px;
+    font-size: 28px;
+    text-transform: capitalize;
+    font-weight: 700;
+    text-shadow:0px 0.5px 2px #000000;
+}
 
 /* Pagina de Zapatos */
 
+.main-zapatos h2{
+    text-align: center;
+    margin: 50px 0px;
+    font-size: 28px;
+    text-transform: capitalize;
+    font-weight: 700;
+    text-shadow:0px 0.5px 2px #000000;
+}
